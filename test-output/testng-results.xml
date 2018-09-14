@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-22T21:17:00Z" name="Default suite" finished-at="2018-08-22T21:17:03Z" duration-ms="2895">
+    <groups>
+    </groups>
+    <test started-at="2018-08-22T21:17:00Z" name="Default test" finished-at="2018-08-22T21:17:03Z" duration-ms="2895">
+      <class name="scrollIntoView.ScrollIntoView">
+        <test-method is-config="true" signature="InvokeBrowser()[pri:0, instance:scrollIntoView.ScrollIntoView@7cf7aee]" started-at="2018-08-22T21:17:00Z" name="InvokeBrowser" finished-at="2018-08-22T21:17:01Z" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method signature="scrolling()[pri:0, instance:scrollIntoView.ScrollIntoView@7cf7aee]" started-at="2018-08-22T21:17:01Z" name="scrolling" finished-at="2018-08-22T21:17:02Z" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scrollIntoView.ScrollIntoView@7cf7aee]" started-at="2018-08-22T21:17:02Z" name="tearDown" finished-at="2018-08-22T21:17:03Z" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scrollIntoView.ScrollIntoView -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
